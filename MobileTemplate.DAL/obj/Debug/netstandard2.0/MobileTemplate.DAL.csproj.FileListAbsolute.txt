@@ -1,0 +1,18 @@
+A:\mobile-template-master\MobileTemplate.DAL\bin\Debug\netstandard2.0\MobileTemplate.DAL.deps.json
+A:\mobile-template-master\MobileTemplate.DAL\bin\Debug\netstandard2.0\MobileTemplate.DAL.dll
+A:\mobile-template-master\MobileTemplate.DAL\bin\Debug\netstandard2.0\MobileTemplate.DAL.pdb
+A:\mobile-template-master\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.csprojAssemblyReference.cache
+A:\mobile-template-master\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.csproj.CoreCompileInputs.cache
+A:\mobile-template-master\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.AssemblyInfoInputs.cache
+A:\mobile-template-master\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.AssemblyInfo.cs
+A:\mobile-template-master\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.dll
+A:\mobile-template-master\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.pdb
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.DAL\bin\Debug\netstandard2.0\MobileTemplate.DAL.deps.json
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.DAL\bin\Debug\netstandard2.0\MobileTemplate.DAL.dll
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.DAL\bin\Debug\netstandard2.0\MobileTemplate.DAL.pdb
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.csprojAssemblyReference.cache
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.csproj.CoreCompileInputs.cache
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.AssemblyInfoInputs.cache
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.AssemblyInfo.cs
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.dll
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.DAL\obj\Debug\netstandard2.0\MobileTemplate.DAL.pdb

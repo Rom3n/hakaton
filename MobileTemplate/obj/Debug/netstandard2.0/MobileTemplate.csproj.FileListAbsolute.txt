@@ -1,0 +1,30 @@
+A:\mobile-template-master\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.deps.json
+A:\mobile-template-master\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.dll
+A:\mobile-template-master\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.pdb
+A:\mobile-template-master\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.DAL.dll
+A:\mobile-template-master\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.DAL.pdb
+A:\mobile-template-master\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.csprojAssemblyReference.cache
+A:\mobile-template-master\MobileTemplate\obj\Debug\netstandard2.0\UI\Pages\Main\MainPage.xaml.g.cs
+A:\mobile-template-master\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.csproj.CoreCompileInputs.cache
+A:\mobile-template-master\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.AssemblyInfoInputs.cache
+A:\mobile-template-master\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.AssemblyInfo.cs
+A:\mobile-template-master\MobileTemplate\obj\Debug\netstandard2.0\XamlC.stamp
+A:\mobile-template-master\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.csproj.CopyComplete
+A:\mobile-template-master\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.dll
+A:\mobile-template-master\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.pdb
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.deps.json
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.dll
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.pdb
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.DAL.dll
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.DAL.pdb
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.csprojAssemblyReference.cache
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.csproj.CoreCompileInputs.cache
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.AssemblyInfoInputs.cache
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.AssemblyInfo.cs
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.csproj.CopyComplete
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.dll
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.pdb
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\UI\Pages\Events\EventsPage.xaml.g.cs
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\UI\Pages\Map\MapPage.xaml.g.cs
+C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate\obj\Debug\netstandard2.0\UI\Pages\News\NewsPage.xaml.g.cs
