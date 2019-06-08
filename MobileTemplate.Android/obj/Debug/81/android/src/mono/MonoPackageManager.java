@@ -115,6 +115,7 @@ class MonoPackageManager_Resources {
 		"AndHUD.dll",
 		"FormsViewGroup.dll",
 		"MobileTemplate.dll",
+		"MvvmHelpers.dll",
 		"Newtonsoft.Json.dll",
 		"Plugin.Connectivity.Abstractions.dll",
 		"Plugin.Connectivity.dll",

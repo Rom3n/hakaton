@@ -2,6 +2,7 @@ Acr.UserDialogs
 AndHUD
 FormsViewGroup
 MobileTemplate
+MvvmHelpers
 Newtonsoft.Json
 Plugin.Connectivity.Abstractions
 Plugin.Connectivity

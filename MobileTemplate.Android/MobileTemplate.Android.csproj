@@ -51,6 +51,9 @@
     <PackageReference Include="Acr.UserDialogs">
       <Version>7.0.4</Version>
     </PackageReference>
+    <PackageReference Include="Refractored.MvvmHelpers">
+      <Version>1.3.0</Version>
+    </PackageReference>
     <PackageReference Include="Xam.Plugin.Connectivity">
       <Version>3.2.0</Version>
     </PackageReference>
@@ -62,6 +65,13 @@
     <PackageReference Include="Xamarin.Android.Support.v7.MediaRouter" Version="28.0.0.1" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FastGrid\FastGridViewRenderer.cs" />
+    <Compile Include="FastGrid\FastGridAdapter.cs" />
+    <Compile Include="FastGrid\FormsToNativeDroid.cs" />
+    <Compile Include="FastGrid\SmoothGridLayoutManager.cs" />
+    <Compile Include="FastGrid\EndlessRecyclerViewScrollListener.cs" />
+    <Compile Include="FastGrid\SwipeRefreshLayoutWithDisabling.cs" />
+    <Compile Include="FastGrid\ViewHolders.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

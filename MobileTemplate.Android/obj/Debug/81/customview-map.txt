@@ -1,53 +1,53 @@
-@string/appbar_scrolling_view_behavior;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\flyoutcontent.xml
-@string/appbar_scrolling_view_behavior;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\rootlayout.xml
-@string/appbar_scrolling_view_behavior;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\shellcontent.xml
-alpha;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\enterfromleft.xml
-alpha;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\exittoleft.xml
-android.support.design.widget.AppBarLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.AppBarLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\rootlayout.xml
-android.support.design.widget.AppBarLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\shellcontent.xml
-android.support.design.widget.BottomNavigationView;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\bottomtablayout.xml
-android.support.design.widget.CoordinatorLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.CoordinatorLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\rootlayout.xml
-android.support.design.widget.CoordinatorLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\shellcontent.xml
-android.support.design.widget.TabLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\shellcontent.xml
+alpha;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\enterfromleft.xml
+alpha;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\rootlayout.xml
 android.support.design.widget.TabLayout;obj\Debug\81\res\layout\tabbar.xml
-android.support.v4.widget.NestedScrollView;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\rootlayout.xml
-android.support.v4.widget.NestedScrollView;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\shellcontent.xml
-android.support.v7.widget.RecyclerView;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\flyoutcontent.xml
-android.support.v7.widget.Toolbar;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\rootlayout.xml
-android.support.v7.widget.Toolbar;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\shellcontent.xml
+android.support.v4.widget.NestedScrollView;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\rootlayout.xml
+android.support.v4.widget.NestedScrollView;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\shellcontent.xml
+android.support.v7.widget.RecyclerView;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\shellcontent.xml
 android.support.v7.widget.Toolbar;obj\Debug\81\res\layout\toolbar.xml
-androidhud.ProgressWheel;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingprogress.xml
-attr;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\attrs.xml
-corners;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbg.xml
-corners;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbgdark.xml
-declare-styleable;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\attrs.xml
-FrameLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\bottomtablayout.xml
-gradient;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbg.xml
-gradient;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbgdark.xml
-ImageView;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingimage.xml
+androidhud.ProgressWheel;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingprogress.xml
+attr;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\attrs.xml
+corners;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbg.xml
+corners;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbgdark.xml
+declare-styleable;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\attrs.xml
+FrameLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\bottomtablayout.xml
+gradient;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbg.xml
+gradient;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbgdark.xml
+ImageView;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingimage.xml
 item;obj\Debug\81\res\values\styles.xml
-LinearLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loading.xml
-LinearLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingimage.xml
-LinearLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingprogress.xml
-LinearLayout;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\layout\bottomtablayout.xml
-ProgressBar;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loading.xml
-resources;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\attrs.xml
-resources;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\strings.xml
+LinearLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loading.xml
+LinearLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingimage.xml
+LinearLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingprogress.xml
+LinearLayout;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\layout\bottomtablayout.xml
+ProgressBar;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loading.xml
+resources;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\attrs.xml
+resources;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\strings.xml
 resources;obj\Debug\81\res\values\styles.xml
-set;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\enterfromleft.xml
-set;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\enterfromright.xml
-set;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\exittoleft.xml
-set;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\exittoright.xml
-shape;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbg.xml
-shape;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbgdark.xml
-string;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\strings.xml
+set;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\enterfromleft.xml
+set;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\enterfromright.xml
+set;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\exittoleft.xml
+set;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\exittoright.xml
+shape;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbg.xml
+shape;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\drawable\roundedbgdark.xml
+string;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\values\strings.xml
 style;obj\Debug\81\res\values\styles.xml
-TextView;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loading.xml
-TextView;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingimage.xml
-TextView;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingprogress.xml
-translate;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\enterfromleft.xml
-translate;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\enterfromright.xml
-translate;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\exittoleft.xml
-translate;C:\Users\solod\Desktop\Новая папка (6)\MobileTemplate\MobileTemplate.Android\obj\Debug\81\lp\28\jl\res\anim\exittoright.xml
+TextView;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loading.xml
+TextView;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingimage.xml
+TextView;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\1\jl\res\layout\loadingprogress.xml
+translate;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\enterfromleft.xml
+translate;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\enterfromright.xml
+translate;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\exittoleft.xml
+translate;C:\Users\solod\Documents\hakaton\MobileTemplate.Android\obj\Debug\81\lp\29\jl\res\anim\exittoright.xml

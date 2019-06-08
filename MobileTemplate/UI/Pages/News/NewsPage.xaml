@@ -6,12 +6,24 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="MobileTemplate.UI.Pages.News.NewsPage"
+			 xmlns:fastGrid="clr-namespace:MobileTemplate.UI.Controls.FastGrid;assembly=MobileTemplate"
 			 Title="News">
-	<ContentPage.Content>
+
+	<ScrollView>
+
 		<StackLayout>
-			<Label Text="Newspage"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+
+			<fastGrid:FastGridView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"
+                               IsPullToRefreshEnabled="False" x:Name="fastGridView"
+                               ItemsSource="{Binding ItemsSource}" 
+                               ItemSelectedCommand="{Binding ItemSelectedCommand}"
+                               RowSpacing="1"
+                               ColumnSpacing="1"
+                               AbsoluteLayout.LayoutBounds="0,0,1,1"
+                               AbsoluteLayout.LayoutFlags="All"
+                               />
+
+
 		</StackLayout>
-	</ContentPage.Content>
+	</ScrollView>
 </pages:BasePage>
