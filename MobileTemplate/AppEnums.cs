@@ -3,7 +3,9 @@ namespace MobileTemplate
 	public enum AppPages {
 		Main,
 		News,
+		NewsItem,
 		Events,
+		EventItem,
 		Map
 	}
 

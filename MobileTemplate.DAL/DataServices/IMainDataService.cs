@@ -4,6 +4,6 @@ using MobileTemplate.DAL.DataObjects;
 
 namespace MobileTemplate.DAL.DataServices {
 	public interface IMainDataService {
-		Task<RequestResult<SampleDataObject>> GetSampleDataObject(CancellationToken ctx);
+		//Task<RequestResult<SampleDataObject>> GetSampleDataObject(CancellationToken ctx);
 	}
 }

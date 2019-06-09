@@ -7,7 +7,7 @@
              mc:Ignorable="d"
              x:Class="MobileTemplate.UI.Pages.News.NewsPage"
 			 xmlns:fastGrid="clr-namespace:MobileTemplate.UI.Controls.FastGrid;assembly=MobileTemplate"
-			 Title="News">
+			 Title="Новости">
 
 	<ScrollView>
 
@@ -16,7 +16,7 @@
 			<fastGrid:FastGridView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"
                                IsPullToRefreshEnabled="False" x:Name="fastGridView"
                                ItemsSource="{Binding ItemsSource}" 
-                               ItemSelectedCommand="{Binding ItemSelectedCommand}"
+                               ItemSelectedCommand="{Binding ItemSelectedCommand}"							   
                                RowSpacing="1"
                                ColumnSpacing="1"
                                AbsoluteLayout.LayoutBounds="0,0,1,1"

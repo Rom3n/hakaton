@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages:BasePage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:pages="clr-namespace:MobileTemplate.UI.Pages;assembly=MobileTemplate"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileTemplate.UI.Pages.Events.EventItemPage">
+	<ScrollView>
+		<StackLayout>
+			<Label Margin="10,10,0,0" Text="Концерт" TextColor="Blue" FontSize="Medium" HorizontalOptions="StartAndExpand"/>
+			<Grid Margin="10">
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="*" />
+					<ColumnDefinition Width="*" />
+				</Grid.ColumnDefinitions>
+				<Grid.RowDefinitions>
+					<RowDefinition Height="50" />
+					<RowDefinition Height="170" />
+					<RowDefinition Height="*" />
+				</Grid.RowDefinitions>
+
+				<Image Source="https://cdn.kassir.ru/vrn/poster/24/24247d9bd55a540d1c9a121901e45112.jpg"
+					   Grid.Column="0" Grid.Row="0" Grid.RowSpan="3" />
+				<Label Text="Леонид Агутин" TextColor="Black" FontSize="Medium" Grid.Column="1" Grid.Row="0" />
+				<Label Text="Июнь 2019" TextColor="Black" FontSize="Medium" Grid.Column="1" Grid.Row="1" />
+
+				<Button BackgroundColor="#337575" Text="Расписание и билеты" FontSize="Default" Grid.Column="1" Grid.Row="2"/>
+			</Grid>
+
+			<Label Margin="10" TextColor="Black" FontSize="Medium" Text="Юбилейный тур Леонида Агутина продолжается и 9 июня музыкант выступит в особенном для него городе — Воронеже, где живут многочисленные родственники Леонида Агутина и его супруги Анжелики Варум. &#10;&#10;А для особенного концерта — особый гость&#10; Им станет отец артиста Николай Петрович Агутин, советский певец, поэт-песенник и композитор. Короче говоря, если вы еще сомневались идти ли на концерт 9 июня в Event-Hall, то теперь ответ однозначный — такое необычное выступление пропускать нельзя!"/>
+
+
+
+		</StackLayout>
+	</ScrollView>
+</pages:BasePage>

@@ -9,6 +9,8 @@ namespace MobileTemplate.UI.Pages.Cells {
 		Label _date;
 		Label _comments;
 		Label _views;
+		private StackLayout dateview;
+		private StackLayout countsview;
 		private StackLayout innerview;
 
 		protected override void InitializeCell() {
@@ -16,32 +18,56 @@ namespace MobileTemplate.UI.Pages.Cells {
 
 			_tag = new Label {
 				HorizontalOptions = LayoutOptions.FillAndExpand,
-				FontSize = 14,
+				FontSize = 20,
 				TextColor = Color.Blue
 			};
 
 			_title = new Label {
 				HorizontalOptions = LayoutOptions.FillAndExpand,
-				FontSize = 14,
+				FontSize = 24,
 				TextColor = Color.Black
 			};
 
 			_date = new Label {
+				VerticalOptions = LayoutOptions.Start,
 				HorizontalOptions = LayoutOptions.Start,
-				FontSize = 14,
+				FontSize = 16,
 				TextColor = Color.Gray
 			};
 
 			_comments = new Label {
 				HorizontalOptions = LayoutOptions.FillAndExpand,
-				FontSize = 14,
+				FontSize = 16,
 				TextColor = Color.Gray
 			};
 
 			_views = new Label {
 				HorizontalOptions = LayoutOptions.FillAndExpand,
-				FontSize = 14,
+				FontSize = 16,
 				TextColor = Color.Gray
+			};
+
+			dateview = new StackLayout {
+				VerticalOptions = LayoutOptions.FillAndExpand,
+				HorizontalOptions = LayoutOptions.Start,
+				Orientation = StackOrientation.Horizontal,
+				Children =
+				{
+					_date,
+
+				}
+			};
+
+			countsview = new StackLayout {
+				VerticalOptions = LayoutOptions.FillAndExpand,
+				HorizontalOptions = LayoutOptions.Start,
+				Orientation = StackOrientation.Horizontal,
+				Children =
+	{
+					_comments,
+					_views
+
+				}
 			};
 
 			innerview = new StackLayout {
@@ -50,7 +76,7 @@ namespace MobileTemplate.UI.Pages.Cells {
 				Orientation = StackOrientation.Horizontal,
 				Children =
 				{
-					_date,
+					dateview,
 					_comments,
 					_views
 

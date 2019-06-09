@@ -34,13 +34,16 @@ C:\Users\solod\Documents\hakaton\MobileTemplate\bin\Debug\netstandard2.0\MobileT
 C:\Users\solod\Documents\hakaton\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.DAL.dll
 C:\Users\solod\Documents\hakaton\MobileTemplate\bin\Debug\netstandard2.0\MobileTemplate.DAL.pdb
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.csprojAssemblyReference.cache
+C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\UI\Controls\Cells\CategoryCell.xaml.g.cs
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\UI\Pages\Events\EventsPage.xaml.g.cs
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\UI\Pages\Map\MapPage.xaml.g.cs
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\UI\Pages\News\NewsPage.xaml.g.cs
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.csproj.CoreCompileInputs.cache
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.AssemblyInfoInputs.cache
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.AssemblyInfo.cs
+C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.csproj.CopyComplete
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.dll
 C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\MobileTemplate.pdb
-C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\UI\Pages\News\NewsItemPage.xaml.g.cs
+C:\Users\solod\Documents\hakaton\MobileTemplate\obj\Debug\netstandard2.0\UI\Pages\Events\EventItemPage.xaml.g.cs

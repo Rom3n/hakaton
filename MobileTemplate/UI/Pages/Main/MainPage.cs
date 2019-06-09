@@ -6,7 +6,7 @@ namespace MobileTemplate.UI.Pages {
 		public MainPage() {
 			On<Xamarin.Forms.PlatformConfiguration.Android>().SetToolbarPlacement(ToolbarPlacement.Bottom);
 			On<Xamarin.Forms.PlatformConfiguration.Android>().SetIsSwipePagingEnabled(true);
-			On<Xamarin.Forms.PlatformConfiguration.Android>().SetBarItemColor(Color.CornflowerBlue);
+			On<Xamarin.Forms.PlatformConfiguration.Android>().SetBarItemColor(Color.Black);
 		}
 
 		protected override void OnCurrentPageChanged() {

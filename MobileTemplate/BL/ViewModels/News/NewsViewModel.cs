@@ -12,9 +12,11 @@ namespace MobileTemplate.BL.ViewModels.News {
 		ObservableRangeCollection<object> _itemsSource = new ObservableRangeCollection<object>();
 
 		ICommand _itemSelectedCommand;
+
+		//public ICommand ItemSelectedCommand => GetNavigateToCommand(AppPages.NewsItem);
 		public ICommand ItemSelectedCommand => _itemSelectedCommand ??
-											   (_itemSelectedCommand = new Command(async (o) =>
-												   await ItemSelectedCommandAsync(o)));
+										   (_itemSelectedCommand = new Command(async (o) =>
+										   await ItemSelectedCommandAsync(o)));
 
 
 		public ObservableRangeCollection<object> ItemsSource {
@@ -32,7 +34,8 @@ namespace MobileTemplate.BL.ViewModels.News {
 
 		async Task ItemSelectedCommandAsync(object obj) {
 			if (obj is NewsItemObject newsitem)
-				await ShowAlert(newsitem.Tag, newsitem.Title + " " + newsitem.Date, "OK");
+				NavigateTo(AppPages.NewsItem);
+				//await ShowAlert("as", "as", "ok");
 		}
 
 		void GenerateSource() {
@@ -54,8 +57,17 @@ namespace MobileTemplate.BL.ViewModels.News {
 
 				new NewsItemObject()
 				{
-					Tag = "Город",
-					Title = "В Воронеже нашли самую красивую улицу",
+					Tag = "Поможем разобраться",
+					Title = "Можно ли построить хороший дом за миллион рублей?",
+					Date = "10:30, сегодня",
+					Comments = "5",
+					Views = "120"
+				},
+
+				new NewsItemObject()
+				{
+					Tag = "Происшествия",
+					Title = "Воронежец разбил камеру видеофиксации ради друга на «Порше»",
 					Date = "10:30, сегодня",
 					Comments = "0",
 					Views = "12"
@@ -64,19 +76,28 @@ namespace MobileTemplate.BL.ViewModels.News {
 				new NewsItemObject()
 				{
 					Tag = "Город",
-					Title = "В Воронеже нашли самую красивую улицу",
+					Title = "Воронежцев зовут на сельскохозяйственную ярмарку",
 					Date = "10:30, сегодня",
-					Comments = "0",
-					Views = "12"
+					Comments = "14",
+					Views = "1332"
+				},
+
+				new NewsItemObject()
+				{
+					Tag = "Происшествия",
+					Title = "Воронежец дошутился до уголовной статьи о терроризме",
+					Date = "10:30, сегодня",
+					Comments = "1",
+					Views = "1412"
 				},
 
 				new NewsItemObject()
 				{
 					Tag = "Город",
-					Title = "В Воронеже нашли самую красивую улицу",
-					Date = "10:30, сегодня",
-					Comments = "0",
-					Views = "12"
+					Title = "Три автобусных маршрута в Воронеже изменят путь следования с 10 июня",
+					Date = "10:30, 07.06.2019",
+					Comments = "2",
+					Views = "1312"
 				},
 
 			};

@@ -16,10 +16,10 @@ namespace MobileTemplate.UI.Pages.News {
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("UI\\Pages\\News\\NewsPage.xaml")]
     public partial class NewsPage : global::MobileTemplate.UI.Pages.BasePage {
         
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::MobileTemplate.UI.Controls.FastGrid.FastGridView fastGridView;
         
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(NewsPage));
             fastGridView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::MobileTemplate.UI.Controls.FastGrid.FastGridView>(this, "fastGridView");

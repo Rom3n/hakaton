@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages:BasePage xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:pages="clr-namespace:MobileTemplate.UI.Pages;assembly=MobileTemplate"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MobileTemplate.UI.Pages.News.NewsItemPage"
+				Title="В Воронеже нашли самую красивую улицу">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Margin="10" Text="Город" HorizontalOptions="FillAndExpand"
+				   TextColor="Blue" FontSize="Medium"/>
+			<Label Margin="10" Text="В Воронеже нашли самую красивую улицу" TextColor="Black" FontSize="Large" HorizontalOptions="StartAndExpand"/>
+			<Label Margin="10" TextColor="Black" FontSize="Medium" Text="&#10;Итоги конкурса на самую привлекательную улицу подвели специалисты управления главного архитектора и управ городских районов&#10;&#10;Улица Мира стала победителем конкурса «Самая красивая улица», сообщили в мэрии в пятницу, 7 июня. Это городское пространство, как посчитали чиновники, больше всего соответствует требованиям дизайн-регламента.&#10;&#10;Напомним, дизайн-регламент – это свод правил для вывесок и рекламы, который действует в Воронеже с сентября 2017 года. Он регламентирует вид фасадов домов на 74 улицах города. Для каждого здания, расположенного на красной линии (линии застройки), создан паспорт фасада, в котором прописано множество нюансов, начиная с цветовой гаммы, в которой должен быть выполнен фасад, и заканчивая архитектурными решениями входных групп, наличием на фасаде рекламы, дизайном, размером и величиной вывесок для нежилых помещений первого этажа и т. д."/>
+		</StackLayout>
+    </ContentPage.Content>
+</pages:BasePage>

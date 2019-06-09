@@ -16,9 +16,13 @@ namespace MobileTemplate.UI.Pages.Events {
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("UI\\Pages\\Events\\EventsPage.xaml")]
     public partial class EventsPage : global::MobileTemplate.UI.Pages.BasePage {
         
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::MobileTemplate.UI.Controls.FastGrid.FastGridView fastGridView;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(EventsPage));
+            fastGridView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::MobileTemplate.UI.Controls.FastGrid.FastGridView>(this, "fastGridView");
         }
     }
 }

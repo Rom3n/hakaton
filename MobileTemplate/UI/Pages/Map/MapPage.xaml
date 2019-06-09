@@ -5,13 +5,25 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
+			 xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+			 xmlns:behaviours="clr-namespace:MobileTemplate.UI.Behaviours;assembly=MobileTemplate"
              x:Class="MobileTemplate.UI.Pages.Map.MapPage"
-			 Title="Map">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="MapPage"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+			 Title="Карта проишествий">
+	
+	<ContentPage.Content NavigationPage.HasNavigationBar="false">
+        <Grid>
+			
+			<maps:Map x:Name="LocationMap" MapType="Street" VerticalOptions="FillAndExpand">
+				<maps:Map.Behaviors>
+					<behaviours:BindableMapBehavior ItemsSource="{Binding Locations}" />
+				
+				</maps:Map.Behaviors>
+			</maps:Map>
+
+			<Image Source="https://img.icons8.com/ios/2x/map-pin.png" HorizontalOptions="Start" VerticalOptions="End" Margin="10,10,10,200"/>
+			<Image Source="https://www.bestmyfamily.com/help/images/icons/icon_my_location.png" HorizontalOptions="End" VerticalOptions="End" Margin="10,10,10,200"/>
+
+
+		</Grid>
     </ContentPage.Content>
 </pages:BasePage>
